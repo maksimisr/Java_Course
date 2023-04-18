@@ -1,12 +1,15 @@
 
 public class test_git {
 	public static void main(String[] args) {
-		countDigits();
+	Person p= new Person();
+	p.setName("Olga");
+	p.setLastName("Kalinovskaya");
+	p.setAge(30);
+	
+	p.toString();
+	
 	}
 	
-	public static void countDigits()
-	{
-		System.out.println("Test test Olga");
-	}
+	
 
 }
