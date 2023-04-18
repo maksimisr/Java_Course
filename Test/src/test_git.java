@@ -6,7 +6,7 @@ public class test_git {
 	
 	public static void countDigits()
 	{
-		System.out.println("By Olga");
+		System.out.println("Test test Olga");
 	}
 
 }
